@@ -8,7 +8,9 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 @EnableConfigServer
 public class SpringCloudConfigServerApplication {
 
-	// add comment to this line test
+
+	// add comment to test conflict test
+
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringCloudConfigServerApplication.class, args);
