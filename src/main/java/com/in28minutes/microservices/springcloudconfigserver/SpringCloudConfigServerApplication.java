@@ -11,7 +11,7 @@ import org.springframework.cloud.client.discovery.DiscoveryClient;
 public class SpringCloudConfigServerApplication {
 
 
-	// add comment to test conflict
+	// add comment to test conflict test
 
 
 	public static void main(String[] args) {
